@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.subsection {
+    color: green;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+}
+
+#food {
+    height: 700px;
+    width: 500px;
+}
